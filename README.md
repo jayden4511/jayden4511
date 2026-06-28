@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://jayden4511.vercel.app)
+![header](https://jayden4511.vercel.app/?v=2)
 
 </div>
 
