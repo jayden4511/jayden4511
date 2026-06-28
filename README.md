@@ -4,19 +4,15 @@
 
 </div>
 
----
-
-**about me**
-
-third-year comp sci student @ ucf.
+third-year comp sci student @ ucf
 
 ---
 
 **interests**
 
-`distributed systems`      `music`      `ai/ml pipelines` 
+`distributed systems`      `music`      `ai/ml` 
 
-`backend architecture`     `tv & film`
+`backend architecture`     `tv & film`  `sports`
 
 <br/>
 
