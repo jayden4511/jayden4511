@@ -10,7 +10,7 @@ SVG = """<svg width="680" height="160" viewBox="0 0 680 160" xmlns="http://www.w
   <text x="340" y="100"
         font-family="'Segoe UI', system-ui, sans-serif"
         font-size="38" font-weight="300" letter-spacing="16"
-        fill="#e6edf3" text-anchor="middle">jayden-frisancho</text>
+        fill="#e6edf3" text-anchor="middle">jayden frisancho</text>
   <text x="340" y="132"
         font-family="'Segoe UI', system-ui, sans-serif"
         font-size="11" font-weight="400" letter-spacing="3"
