@@ -8,7 +8,7 @@
 
 **interests**
 
-`data engineering`      `music`     `tv & film`  `sports`
+`data engineering`      `music`     `tv & film`  `sports`  `reading`
 
 <br/>
 
