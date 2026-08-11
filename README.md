@@ -14,7 +14,7 @@
 
 <br/>
 
-*what i'm currently reading:*
+**what i'm currently reading:**
 
 Black Wings Has My Angel - Elliot Chazel
 
